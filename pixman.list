@@ -7,4 +7,3 @@ DOMAIN-SUFFIX,ofiii.com,Proxy
 ## MytvSuper
 DOMAIN-SUFFIX,mytvsuper.com,Proxy
 DOMAIN-SUFFIX,tvb.com,Proxy
-IP-CIDR,216.239.35.0/24,no-resolve
