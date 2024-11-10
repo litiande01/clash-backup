@@ -37,3 +37,5 @@ IntranetIP2.list/家用内网IP
 pixman/Docker容器、4GTV & Hamivideo、YouTube、MytvSuper
 
 epg/电子节目单
+
+ProxyGFWlist1.list/去除重复规则
