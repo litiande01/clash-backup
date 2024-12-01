@@ -7,3 +7,6 @@ DOMAIN-SUFFIX,ofiii.com,Proxy
 ## MytvSuper
 DOMAIN-SUFFIX,mytvsuper.com,Proxy
 DOMAIN-SUFFIX,tvb.com,Proxy
+
+##112114 EPG
+DOMAIN-SUFFIX,112114.xyz,Proxy
