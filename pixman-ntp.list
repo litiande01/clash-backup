@@ -1,1 +1,3 @@
 IP-CIDR,216.239.35.0/24,no-resolve
+##112114 EPG
+DOMAIN-SUFFIX,112114.xyz,Proxy
