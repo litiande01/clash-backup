@@ -28,6 +28,8 @@ ChinaCompanyIp.list/国内流量
 
 Download.list/国内流量
 
+futu.list/富途牛牛
+
 clash-rule-provider.yml/国内流量
 
 IntranetIP.list/内网穿透
