@@ -1,8 +1,8 @@
 ## 4GTV & Hamivideo
-DOMAIN-SUFFIX,4gtv.tv,Proxy
-DOMAIN-SUFFIX,hinet.net,Proxy
-DOMAIN-SUFFIX,ofiii.com,Proxy
+DOMAIN-SUFFIX,4gtv.tv
+DOMAIN-SUFFIX,hinet.net
+DOMAIN-SUFFIX,ofiii.com
 
 ## MytvSuper
-DOMAIN-SUFFIX,mytvsuper.com,Proxy
-DOMAIN-SUFFIX,tvb.com,Proxy
+DOMAIN-SUFFIX,mytvsuper.com
+DOMAIN-SUFFIX,tvb.com
