@@ -5,8 +5,22 @@
 DOMAIN-SUFFIX,acl4.ssr
 
 #IPTV走内网地址
-IP-CIDR,125.88.0.0/16,no-resolve
-IP-CIDR,183.59.0.0/16,no-resolve
+IP-CIDR,125.88.53.0/24,no-resolve
+IP-CIDR,125.88.55.0/24,no-resolve
+IP-CIDR,125.88.70.0/24,no-resolve
+IP-CIDR,125.88.82.0/24,no-resolve
+IP-CIDR,125.88.89.0/24,no-resolve
+IP-CIDR,125.88.95.0/24,no-resolve
+IP-CIDR,183.59.19.0/24,no-resolve
+IP-CIDR,183.59.37.0/24,no-resolve
+IP-CIDR,183.59.59.0/24,no-resolve
+IP-CIDR,183.59.153.0/24,no-resolve
+IP-CIDR,183.59.156.0/24,no-resolve
+IP-CIDR,183.59.160.0/24,no-resolve
+IP-CIDR,183.59.168.0/24,no-resolve
+IP-CIDR,183.59.200.0/24,no-resolve
+IP-CIDR,183.59.201.0/24,no-resolve
+IP-CIDR,59.37.208.0/24,no-resolve
 
 # 本地/局域网地址
 DOMAIN-SUFFIX,ip6-localhost
